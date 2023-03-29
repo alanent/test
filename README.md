@@ -1,3 +1,7 @@
+# Demo
+
+https://huggingface.co/spaces/alanoix/ign-flair-one-demo
+
 # Training  
 
 Each `python` file in `models` folder can be executed to train and save corresponding model.  
