@@ -18,12 +18,16 @@ Segformer (`https://huggingface.co/docs/transformers/model_doc/segformer`)
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
 
+---
+
 - Segformer b0 - 5 channels (`scripts/train_segformers_b0_5c_tensorflow.py`)
 - Segformer b5 - 5 channels (`scripts/train_segformers_b5_5c_tensorflow.py`)
 
 <a target="_blank" href="https://colab.research.google.com/drive/1UzBqcmHcXeIWdJFUpyfbXNKRoOOQP7EB">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
+
+---
 
 Mask2former (`https://huggingface.co/docs/transformers/model_doc/mask2former`)
 - Mask2former swin - base - ade - RGB (`scripts/train_mask2formers_swin_base_rgb_pytorch.py`)
@@ -32,7 +36,7 @@ Mask2former (`https://huggingface.co/docs/transformers/model_doc/mask2former`)
 <a target="_blank" href="https://colab.research.google.com/drive/1rcNLoi7bTRwwIQKjNmOIMLEVBV2cLB9O">
   <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
 </a>
-
+---
 
 To train, for example segformer b0 RGB model, open terminal and execute :  
 `python scripts/train_segformers_b0_rgb_pytorch.py`
